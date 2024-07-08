@@ -39,9 +39,11 @@ CakeShop is a software technology assignment designed to demonstrate a simple e-
 - **JavaScript**
 - **PHP**
 - **MySQL**
+- **XAMPP**
 
 ## Setup
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/zeesha44/CakeShop.git
+1. Install XAMPP
+2. Save the cloned file in C:\xampp\htdocs
+3. Open browser
+4. type this in your browser localhost/CakeShop/index.php
